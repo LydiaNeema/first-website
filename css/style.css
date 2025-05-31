@@ -60,7 +60,7 @@ text-decoration:underline;
     font-weight: 400;
 }
 .myservices{
-    background-image:url(./images/istockphoto-1356364287-612x612.jpg) ;
+    background-image:url(../images/istockphoto-1356364287-612x612.jpg) ;
  height: 600px;
 
 }
@@ -70,7 +70,7 @@ text-decoration:underline;
 .webdevelopment{
     color: white;
     background-color: black;
-/*background-image: url(/images/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.avif);*/
+background-image: url(../images/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.avif);
 padding: 10px;
 width: 600px;
 margin: 10px;
@@ -79,7 +79,7 @@ justify-content:start ;
 .webdesign{
     color: white;
     background-color: black;
-    /*background-image: url(/images/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.avif);*/
+    background-image: url(../images/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.avif);
 width: 600px;
 padding: 10px;
 margin: 150px;
@@ -88,7 +88,7 @@ justify-content: end;
 .wordpress{
     color: white;
     background-color: black;
-    /*background-image: url(/images/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.avif);*/
+    background-image: url(../images/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.avif);
 width: 600px;
 padding: 10px;
 margin :10px;
